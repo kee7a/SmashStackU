@@ -1,4 +1,1 @@
-SmashStackU
-===========
-
-An attempt at making an offline Wii U exploit.
+  This repository contains all of the files that you would find on an SD card that has been used to take snapshots in Super Smash Bros. for Wii U. The end goal is to have a repository containing files that people can use to build an exploit that will launch user-specified code after a small amount of input.
